@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SmellyBug
+comment0.text=\n\ Lab\ Partners\:\ Jason\ Troiano\ and\ Saqlain\ Anjum\n\ SmellyBug\ Class\ Code\n
+comment1.params=name\ initialEnergyLevel\ weapon1Desc\ weapon1Power\ weapon2Desc\ weapon2Power\ odorDesc
+comment1.target=SmellyBug(java.lang.String,\ int,\ java.lang.String,\ int,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=myGUI
+comment2.target=void\ onHit(RobotGUI)
+numComments=3
