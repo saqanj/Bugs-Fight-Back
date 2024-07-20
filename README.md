@@ -6,4 +6,4 @@
   * Federico Cedolini
 
 # How to Launch
-  * Launch project by hitting run from the main!
+  * Launch project by hitting run from the main under BugMain.java!
