@@ -1,5 +1,8 @@
-- PROJECT TITLE: Bugs fight back!
-- PURPOSE OF PROJECT: Abstraction & inheritence exercise involving front-end GUI's and user inputs.
-- VERSION or DATE: 1.0.0
-- AUTHORS: Saqlain Anjum and Federico Cedolini
-- USER INSTRUCTIONS: Launch project from the main!
+# Bugs Fight Back - Overview
+  * A fun game made in Java to exercise Abstraction & Inheritence involving a front-end GUI, sounds, and responsive user inputs. 
+
+# Collaborators 
+  * Saqlain Anjum and Federico Cedolini
+
+# How to Launch
+  * Launch project by hitting run from the main!
